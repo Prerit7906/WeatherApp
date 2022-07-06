@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, {  useState } from 'react'
 import Temp from './Temp';
 // import {Navlink} from "react-router-dom"
 
