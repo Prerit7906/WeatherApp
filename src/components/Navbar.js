@@ -35,9 +35,7 @@ export default function Navbar() {
     };
 
 
-    useEffect(() => 
-    {getWeatherInfo();
-    }, []);
+   
 
     return (
         
