@@ -1,5 +1,4 @@
 import React from 'react'
-import { news } from './News'
 import "./Newscard.css"
 
 
