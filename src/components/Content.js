@@ -6,6 +6,7 @@ import Newscard from './Newscard';
 export default function Content() {
     const [newsData, setNewsData] = useState(news);
     // console.log(newsData);
+    setNewsData();
 
     return (
         <>
